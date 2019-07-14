@@ -5,4 +5,4 @@ python:
 
 cache: pip
 install: pip install mypy
-script: mypy main.py
+script: mypy merchant.py
